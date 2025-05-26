@@ -1,0 +1,3 @@
+## Dualismus
+### Substanzdualismus
+## Monismus
