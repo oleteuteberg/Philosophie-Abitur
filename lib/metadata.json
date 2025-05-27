@@ -1,12 +1,14 @@
 {
   "vaultName": "Philosophie-Abitur",
-  "lastExport": 1748297638122,
+  "lastExport": 1748380772710,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Q1.1/Leib Seele.md",
+    "Q1.1/Nagel.md",
+    "Q1.1/Sartre.md",
     "Q1.2/Aristoteles.md",
     "Q1.2/Ethik.md",
     "Q1.2/Kant.md",
@@ -51,7 +53,9 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "res/leviathan.png",
+    "res/erkenntnistheorie.pdf"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -85,31 +89,31 @@
   ],
   "fileInfo": {
     "Q1.1/Leib Seele.md": {
-      "modifiedTime": 1748297638122,
-      "sourceSize": 46,
+      "modifiedTime": 1748380772710,
+      "sourceSize": 273,
       "exportedPath": "q1.1/leib-seele.html",
       "dependencies": []
     },
     "Q1.2/Aristoteles.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 256,
       "exportedPath": "q1.2/aristoteles.html",
       "dependencies": []
     },
     "Q1.2/Ethik.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 328,
       "exportedPath": "q1.2/ethik.html",
       "dependencies": []
     },
     "Q1.2/Kant.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 850,
       "exportedPath": "q1.2/kant.html",
       "dependencies": []
     },
     "Q2.1/Hobbes.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 2152,
       "exportedPath": "q2.1/hobbes.html",
       "dependencies": [
@@ -117,61 +121,61 @@
       ]
     },
     "Q2.1/Locke.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 2436,
       "exportedPath": "q2.1/locke.html",
       "dependencies": []
     },
     "Q2.1/Rousseau.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1375,
       "exportedPath": "q2.1/rousseau.html",
       "dependencies": []
     },
     "Q2.1/Schumpeter.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1463,
       "exportedPath": "q2.1/schumpeter.html",
       "dependencies": []
     },
     "Q2.1/Staatstheorie.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 117,
       "exportedPath": "q2.1/staatstheorie.html",
       "dependencies": []
     },
     "Q2.1/Volksbegriffe.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 206,
       "exportedPath": "q2.1/volksbegriffe.html",
       "dependencies": []
     },
     "Q2.2/Carnap.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1028,
       "exportedPath": "q2.2/carnap.html",
       "dependencies": []
     },
     "Q2.2/Hume.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 868,
       "exportedPath": "q2.2/hume.html",
       "dependencies": []
     },
     "Q2.2/Locke.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 740,
       "exportedPath": "q2.2/locke.html",
       "dependencies": []
     },
     "Q2.2/Popper.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1405,
       "exportedPath": "q2.2/popper.html",
       "dependencies": []
     },
     "Q2.2/Wissenschaftstheorie.md": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 555,
       "exportedPath": "q2.2/wissenschaftstheorie.html",
       "dependencies": [
@@ -179,201 +183,213 @@
       ]
     },
     "res/Erkenntnistheorie.pdf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 148848,
       "exportedPath": "res/erkenntnistheorie.pdf",
       "dependencies": []
     },
     "res/Leviathan.png": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1568497,
       "exportedPath": "res/leviathan.png",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1748297638122,
-      "sourceSize": 396,
+      "modifiedTime": 1748380772710,
+      "sourceSize": 408,
       "exportedPath": "readme.html",
       "dependencies": []
     },
     "res/leviathan.png": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1568497,
       "exportedPath": "res/leviathan.png",
       "dependencies": []
     },
     "res/erkenntnistheorie.pdf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 148848,
       "exportedPath": "res/erkenntnistheorie.pdf",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1748297638122,
-      "sourceSize": 18528,
+      "modifiedTime": 1748380772710,
+      "sourceSize": 19878,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1748297638122,
-      "sourceSize": 1175,
+      "modifiedTime": 1748380772710,
+      "sourceSize": 1172,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1748297638122,
+      "modifiedTime": 1748380772710,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Q1.1/Nagel.md": {
+      "modifiedTime": 1748380772710,
+      "sourceSize": 623,
+      "exportedPath": "q1.1/nagel.html",
+      "dependencies": []
+    },
+    "Q1.1/Sartre.md": {
+      "modifiedTime": 1748380772710,
+      "sourceSize": 780,
+      "exportedPath": "q1.1/sartre.html",
       "dependencies": []
     }
   }
