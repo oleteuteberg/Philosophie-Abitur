@@ -1,19 +1,23 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Philosophie-Abitur]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Philosophie-Abitur</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 27 May 2025 21:19:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 27 May 2025 21:19:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Leib Seele]]></title><description><![CDATA[ 
- <br><br><br>Es gibt zwei Substanzen<br><br>Denkende “Sache“<br><br>Ausgedehnte “Sache“<br><br>Nagel<br><br><br>physikalischer Aspekt und psychischer Aspekt<br>
-Physikalischer Aspekt:<br>
-<br>Messbare Ströme im Gehirn
-<br>Chemische Reaktionen im Körper<br>
-Psychischer Aspekt:
-<br>Eigene Wahrnehmung (z.B. Geschmack von Schokolade)
-<br>Es scheint in der Welt zwei sehr verschiedene Arten von Vorgängen geben: Vorgänge, die zur physikalischen Wirklichkeit gehören, die also von vielen unterschiedlichen Personen von außen beobachtet werden können, sowie jene anderen Vorgänge, die zur psychischen Wirklichkeit gehören, und die ein jeder von uns in seinem eigenen Fall aus der Innenperspektive erlebt.<br><br>Es gibt nur eine Substanz<br><br>Nur Materie -&gt; Gesetzmäßig]]></description><link>q1.1/leib-seele.html</link><guid isPermaLink="false">Q1.1/Leib Seele.md</guid><pubDate>Tue, 27 May 2025 13:26:36 GMT</pubDate></item><item><title><![CDATA[Nagel]]></title><description><![CDATA[ 
- <br><br>physikalischer Aspekt und psychischer Aspekt<br>
-Physikalischer Aspekt:<br>
-<br>Messbare Ströme im Gehirn
-<br>Chemische Reaktionen im Körper<br>
-Psychischer Aspekt:
-<br>Eigene Wahrnehmung (z.B. Geschmack von Schokolade)
-<br>Es scheint in der Welt zwei sehr verschiedene Arten von Vorgängen geben: Vorgänge, die zur physikalischen Wirklichkeit gehören, die also von vielen unterschiedlichen Personen von außen beobachtet werden können, sowie jene anderen Vorgänge, die zur psychischen Wirklichkeit gehören, und die ein jeder von uns in seinem eigenen Fall aus der Innenperspektive erlebt.]]></description><link>q1.1/nagel.html</link><guid isPermaLink="false">Q1.1/Nagel.md</guid><pubDate>Tue, 27 May 2025 13:27:33 GMT</pubDate></item><item><title><![CDATA[Sartre]]></title><description><![CDATA[ 
- <br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Philosophie-Abitur]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Philosophie-Abitur</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 29 May 2025 10:38:52 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 29 May 2025 10:38:52 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Sartre]]></title><description><![CDATA[ 
+ <br><br>Voraussetzung: Atheismus =&gt; Da Essenz sonst vorher festgelegt<br>An-Sich-Sein: zufälliges Dasein; Kein Bewusstsein von sich selbst<br>
+Für-Sich-Sein: Bewusstsein von sich selbst &amp; Fähigkeit reflektiert zu handeln<br>
+Unterscheidung Mensch und Objekt<br>
+Mensch “An und für sich seined“, da beides<br>Essenz vs Existenz<br>
+Essenz: Bestimmung/ Wesen<br>
+Existenz geht Essenz voran beim Menschen<br>Der für-sich-seiende Mensch ist frei, seine eigene Essenz zu definieren, aber auch dazu gezwungen!<br>
+Der für-sich-seiende Mensch ist nicht durch seine Vergangenheit determiniert und kann die Zukunft verändern!<br>
+=&gt; Verantwortung<br><br>
+<br>z.B. Kellner als “Rolle“
+
+<br>Verleiht einem Rechte und Plichten
+<br>Man spielt diese Rolle nur
+
+
+<br>Anderes sein als Tintenglas (Tintenglas ist “an sich“ ein Glas)
+<br>Unterscheidung “An-sich-sein“, “Für-sich-sein“ (“Für-andere-sein“)
+<br>Einschränkung der Freiheit durch Rolle (“mauvaise foi“)
+<br>mauvaise foi -&gt; Selbsttäuschung (Sinn, nicht Übersetzung)
+<br><br><br>
 <br>Andere als Objekt
 <br>“Anwesenheit in Person“ -&gt; wenn es sich um eine Person handelt
 <br><br>
@@ -34,10 +38,36 @@ Psychischer Aspekt:
 <br>Andere als Objekt =&gt; nur bei Interaktion Subjekt
 <br>Man selbst für den anderen ein Objekt
 <br><br>
-<br>Da man selbst kein Objekt sein kann:<br>
-- Von ihm gesehen werden (Subjekt, das einen sieht, kann an die Stelle von einem ein Objekt setzen)<br>
-// ToDo: Weiter Machen
-]]></description><link>q1.1/sartre.html</link><guid isPermaLink="false">Q1.1/Sartre.md</guid><pubDate>Tue, 27 May 2025 21:16:26 GMT</pubDate></item><item><title><![CDATA[Eudämonie]]></title><description><![CDATA[ 
+<br>Da man selbst kein Objekt sein kann:
+
+<br>Von ihm gesehen werden (Subjekt, das einen sieht, kann an die Stelle von einem ein Objekt setzen)
+
+
+<br><br>
+<br>Objekte können die Funktion der Augen annehmen
+<br>Man sieht die Augen nicht, wenn man angeblickt wird -&gt; Täuschung
+<br><br>
+<br>Durch das Schlüsselloch gucken =&gt; man ist unentdeckt
+<br>Man beobachtet ein Schauspiel
+<br>Reine Art und Weise sich in der Welt zu verlieren
+<br><br>
+<br>Unreflektiert und reflektiert 
+<br>Reflexion durch den Blick des Andere
+<br><br>Der Blick des anderen =Andere Welt =&gt; Einschränkung der eigenen Freiheit<br><br>Eigenschaft von Objekt als objektive und ideale Eigentümlichkeit gegeben<br><br>Man kann sich verstecken (dunkele Ecke) =&gt; Andere kann versteck zerstören (Taschenlampe)]]></description><link>q1.1/sartre.html</link><guid isPermaLink="false">Q1.1/Sartre.md</guid><pubDate>Thu, 29 May 2025 10:38:38 GMT</pubDate></item><item><title><![CDATA[Leib Seele]]></title><description><![CDATA[ 
+ <br><br><br>Es gibt zwei Substanzen<br><br>Denkende “Sache“<br><br>Ausgedehnte “Sache“<br><br>Nagel<br><br><br>physikalischer Aspekt und psychischer Aspekt<br>
+Physikalischer Aspekt:<br>
+<br>Messbare Ströme im Gehirn
+<br>Chemische Reaktionen im Körper<br>
+Psychischer Aspekt:
+<br>Eigene Wahrnehmung (z.B. Geschmack von Schokolade)
+<br>Es scheint in der Welt zwei sehr verschiedene Arten von Vorgängen geben: Vorgänge, die zur physikalischen Wirklichkeit gehören, die also von vielen unterschiedlichen Personen von außen beobachtet werden können, sowie jene anderen Vorgänge, die zur psychischen Wirklichkeit gehören, und die ein jeder von uns in seinem eigenen Fall aus der Innenperspektive erlebt.<br><br>Es gibt nur eine Substanz<br><br>Nur Materie -&gt; Gesetzmäßig]]></description><link>q1.1/leib-seele.html</link><guid isPermaLink="false">Q1.1/Leib Seele.md</guid><pubDate>Tue, 27 May 2025 13:26:36 GMT</pubDate></item><item><title><![CDATA[Nagel]]></title><description><![CDATA[ 
+ <br><br>physikalischer Aspekt und psychischer Aspekt<br>
+Physikalischer Aspekt:<br>
+<br>Messbare Ströme im Gehirn
+<br>Chemische Reaktionen im Körper<br>
+Psychischer Aspekt:
+<br>Eigene Wahrnehmung (z.B. Geschmack von Schokolade)
+<br>Es scheint in der Welt zwei sehr verschiedene Arten von Vorgängen geben: Vorgänge, die zur physikalischen Wirklichkeit gehören, die also von vielen unterschiedlichen Personen von außen beobachtet werden können, sowie jene anderen Vorgänge, die zur psychischen Wirklichkeit gehören, und die ein jeder von uns in seinem eigenen Fall aus der Innenperspektive erlebt.]]></description><link>q1.1/nagel.html</link><guid isPermaLink="false">Q1.1/Nagel.md</guid><pubDate>Tue, 27 May 2025 13:27:33 GMT</pubDate></item><item><title><![CDATA[Eudämonie]]></title><description><![CDATA[ 
  <br><br>
 <br>Höchste Tugend = Theoretische Arbeit -&gt; Praxis auch wichtig um Gut zu sein
 <br>Höchstes Ziel: Eudämonie (Glückseligkeit/ Glück)
